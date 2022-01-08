@@ -7,3 +7,6 @@
 /MyProfile/MyProfile/bin/Debug/netcoreapp3.1
 /MyProfile/MyProfile/obj
 /MyProfile/.vs/MyProfile
+/MyProfile/MyProfile/bin/Release/netcoreapp3.1
+/MyProfile/MyProfile/Properties
+/MyProfile/MyProfile/MyProfile.csproj.user
